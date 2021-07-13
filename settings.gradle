@@ -1,0 +1,13 @@
+pluginManagement {
+    repositories {
+        maven {
+            url "${artifactory_repository}"
+            credentials {
+                username = "${artifactory_user}"
+                password = "${artifactory_password}"
+            }
+        }
+    }
+}
+
+rootProject.name = 'kooby-test'
