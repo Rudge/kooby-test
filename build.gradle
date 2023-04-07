@@ -23,7 +23,7 @@ plugins {
   id "io.spring.dependency-management" version "1.0.9.RELEASE"
   id "com.google.osdetector" version "1.6.2"
   id "com.github.johnrengelman.shadow" version "5.2.0"
-  id "com.heroku.sdk.heroku-gradle" version "2.0.0"
+  id "com.heroku.sdk.heroku-gradle" version "3.0.0"
 }
 
 group "app"
