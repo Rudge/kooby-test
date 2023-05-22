@@ -52,7 +52,7 @@ dependencies {
   implementation "io.jooby:jooby-netty"
   implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
   implementation "ch.qos.logback:logback-classic"
-  implementation 'com.fasterxml.jackson.module:jackson-module-kotlin:2.9.6'
+  implementation 'com.fasterxml.jackson.module:jackson-module-kotlin:2.15.1'
 
   testImplementation "org.junit.jupiter:junit-jupiter-api"
   testImplementation "org.junit.jupiter:junit-jupiter-engine"
