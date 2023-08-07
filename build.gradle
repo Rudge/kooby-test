@@ -1,7 +1,7 @@
 buildscript {
   ext {
     kotlinVersion = "1.4.32"
-    joobyVersion = "2.9.6"
+    joobyVersion = "3.0.1"
   }
 
   repositories {
